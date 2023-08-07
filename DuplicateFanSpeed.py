@@ -12,7 +12,7 @@ class DuplicateFanSpeed(Script):
             "name":"Duplicate fan speed """ + self.version + """",
             "key": "DuplicateFanSpeed",
             "metadata": {},
-            "version": 1,
+            "version": 2,
             "settings":
             {
                 "target_fan":
